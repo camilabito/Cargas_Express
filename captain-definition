@@ -1,5 +1,5 @@
 {
-    "scheoaVersion": 2,
+    "schemaVersion": 2,
     "dockerfileLines": [
         "FROM nginx:alpine",
         "COPY ./ /usr/share/nginx/html"
